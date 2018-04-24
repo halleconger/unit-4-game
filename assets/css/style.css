@@ -1,0 +1,28 @@
+body {
+    background-image: url(../images/stucco.png);
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;  
+  }
+
+p {
+    text-align: center;
+}
+
+.randomNumberGiven {
+    text-align: center;
+}
+
+.winsAndLosses {
+    text-align: center;
+}
+
+.userTotalScore { 
+    text-align: center;
+} 
